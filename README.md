@@ -1,4 +1,8 @@
 <!--suppress HtmlDeprecatedAttribute -->
+> [!NOTE]
+> 이 저장소는 프로그래머스 데브코스 2차 팀 프로젝트 [prgrms-aibe-devcourse/AIBE8-Project2-Team01](https://github.com/prgrms-aibe-devcourse/AIBE8-Project2-Team01)를 커밋 기록째 가져와, 팀원 김영서([@Luvys99](https://github.com/Luvys99))가 개인적으로 개선하는 저장소입니다.
+> 원본 프로젝트(2026.10.26 – 2026.11.06)는 아래 팀원 5명이 함께 만들었고, 이후 변경 사항은 이 저장소의 이슈와 PR로 관리합니다.
+
 <div align="center">
 
 <img src="docs/images/efy-logo.png" width="420" alt="EFY 로고" />
